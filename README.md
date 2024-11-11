@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuan Quoc Ho</h1>
+<h1 align="center">Hi 👋, I'm Tuan Ho</h1>
 <h3 align="center">I am currently studying Data Science at the University of Science.</h3>
 
 - 🌱 I’m currently learning **in the field of Data Science, where I am expanding my knowledge and skills in areas such as Machine Learning, Deep Learning, and the intricate process of building robust data pipelines**
