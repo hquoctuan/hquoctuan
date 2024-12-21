@@ -1,3 +1,5 @@
+
+<p align="center"> <img width="100%" alt="MLOps Hero Banner" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" /> </p>
 <h1 align="center">Hi 👋, I'm Tuan Ho</h1>
 <h3 align="center">I am currently studying Data Science at the University of Science.</h3>
 
