@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="80%" alt="Hi👋! I am Ho Quoc Tuan" src="./assets/gh-readme-header.png" /> </p>
+<h1 align="center">Hi 👋, I'm Tuan Ho</h1>
 <h3 align="center">I am currently studying Data Science at the University of Science.</h3>
 
 - 🌱 I’m currently learning **in the field of Data Science, where I am expanding my knowledge and skills in areas such as Theory of Math, Machine Learning, Deep Learning, and the intricate process of building robust data pipelines**
