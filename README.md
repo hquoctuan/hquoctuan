@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **in the field of Data Science, where I am expanding my knowledge and skills in areas such as Theory of Math, Machine Learning, Deep Learning, and the intricate process of building robust data pipelines**
-- 📫 How to reach me **w.hquoctuan0188@gmail.com**
+- 📫 How to reach me **w.hqtuan0188@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
