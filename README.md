@@ -1,6 +1,6 @@
 
 <p align="center"> <img width="90%" alt="MLOps Hero Banner" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" /> </p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;, I'm Tuan Ho</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;, I'm Tuan Ho</h1>
 <h3 align="center">I am currently studying Data Science at the University of Science .<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h3>
 
 
@@ -8,14 +8,14 @@
 - 📫 How to reach me **w.hqtuan0188@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://fb.com/tuan.ho.nek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuan.ho.nek" height="30" width="40" /></a>
   <a href="https://instagram.com/tuan.hoho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuan.hoho" height="30" width="40" /></a>
  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -49,5 +49,15 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hquoctuan&show_icons=true&locale=en" alt="hquoctuan" / ><img align="right"  width="30%" alt="Coding" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" /></p>
- 
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hquoctuan&show_icons=true&locale=en" alt="hquoctuan" /></p>
+    </td>
+    <td width="50%" align="center">
+      <img align="center" width="70%" alt="Coding" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
+
