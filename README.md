@@ -55,7 +55,7 @@
       <p>
         <img
           align="center"
-          width="70%"
+          width="40%"
           alt="Coding"
           src="https://raw.githubusercontent.com/hquoctuan/hquoctuan/main/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif"
         />
