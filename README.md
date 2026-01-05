@@ -52,12 +52,23 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hquoctuan&show_icons=true&locale=en" alt="hquoctuan" /></p>
+      <p>
+        <img
+          align="center"
+          width="70%"
+          alt="Coding"
+          src="https://raw.githubusercontent.com/hquoctuan/hquoctuan/main/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif"
+        />
+      </p>
     </td>
     <td width="50%" align="center">
-      <img align="center" width="70%" alt="Coding" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+      <img
+        align="center"
+        width="70%"
+        alt="Coding"
+        src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+      />
     </td>
   </tr>
 </table>
-
 
